@@ -13,3 +13,16 @@
     color: white;
     display: inline-block;
 }
+
+.pagination {
+    text-align: center;
+    display: block;
+}
+
+#label-search{
+    color: white;
+}
+
+#center{
+    text-align: center;
+}
